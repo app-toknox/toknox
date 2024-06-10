@@ -3,7 +3,7 @@ TokNox repository for Algorand hackathon.
 
 TokNox is a Tokenization platform built on the Algorand blockchain to notarize, manage, store, and sign every digital file. By revolutionizing the way users interact with blockchain technology and offering a simple, secure, and transparent platform for tokenization, Toknox opens the door to blockchain for everyone. While ensuring all digital files and transactions are managed safely, with its intuitive interface, it empowers users to leverage blockchain's potential without needing to understand its complexities, making digital asset management effortless and efficient.
 
-# Here's how to get your development environment set up and running for both the front-end and back-end components of this application.
+### Here's how to get your development environment set up and running for both the front-end and back-end components of this application.
 
 # TokNox - Back-End
 
