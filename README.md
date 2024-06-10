@@ -147,7 +147,6 @@ Before you begin, make sure you have the following software installed on your ma
     ```bash
     NEXT_PUBLIC_NETWORK=""
     NEXT_PUBLIC_API_URL=""
-    NEXT_PUBLIC_USER_PASSWORD=""
    ``` 
 
 
